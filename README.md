@@ -1,4 +1,4 @@
-# 20_Homework
+# Ethereum Smart Contracts using Solidity/Remix
 
 Three different smart contracts have been uploaded to the Ropsten Testnet<br>
 
